@@ -10,7 +10,7 @@ module.exports = {
         description: "Discos de freno ventilados",
         pictureLink: "sin foto",
         type: "Frenos",
-        Brand: "StopTech",
+        brand: "StopTech",
         createdAt: new Date(),
         updatedAt: new Date()
       },
