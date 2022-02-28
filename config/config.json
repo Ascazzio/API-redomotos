@@ -2,7 +2,7 @@
   "development": {
     "username": "remote",
     "password": "Geekmysql*",
-    "database": "MovieAPI",
+    "database": "redomotos",
     "host": "192.168.1.48",
     "port": "3306",
     "dialect": "mysql"
@@ -10,7 +10,7 @@
   "test": {
     "username": "remote",
     "password": "Geekmysql*",
-    "database": "MovieAPI",
+    "database": "redomotos",
     "host": "192.168.1.48",
     "port": "3306",
     "dialect": "mysql"
@@ -18,7 +18,7 @@
   "production": {
     "username": "remote",
     "password": "Geekmysql*",
-    "database": "MovieAPI",
+    "database": "redomotos",
     "host": "192.168.1.48",
     "port": "3306",
     "dialect": "mysql"
